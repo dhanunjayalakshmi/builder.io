@@ -1,5 +1,25 @@
 body {
-  font-family: 'Sintony', sans-serif; }
+  font-family: 'Sintony', sans-serif;
+  color: #C0C4C7; }
+
+.btn-solid {
+  color: #FFF;
+  border-radius: 2px;
+  text-transform: uppercase;
+  font-weight: bold;
+  padding: 1em 0; }
+  .btn-solid:hover {
+    color: #FFF; }
+
+.btn-outline {
+  color: #A18BCC;
+  border-radius: 2px;
+  text-transform: uppercase;
+  font-weight: bold;
+  padding: 1em;
+  border: 1px solid #A18BCC; }
+  .btn-outline:hover {
+    color: #A18BCC; }
 
 #landing {
   background-color: #A18BCC;
@@ -22,12 +42,7 @@ body {
     margin: 1em 0; }
   #landing a.action {
     background-color: #4BD9DD;
-    color: #FFF;
-    border-radius: 2px;
-    width: 10em;
-    text-transform: uppercase;
-    font-weight: bold;
-    padding: 1em 0; }
+    width: 10em; }
   #landing .image-container {
     position: relative; }
     #landing .image-container img {
@@ -56,4 +71,22 @@ body {
       background-color: rgba(0, 0, 0, 0.5);
       padding: 0.4em; }
 
-/*# sourceMappingURL=styles.css.map */
+#intro {
+  text-align: center;
+  padding: 2em 0; }
+
+.get-started {
+  background-color: #A18BCC;
+  padding: 1em 3em; }
+
+.try-demo {
+  padding: 1em 3em;
+  margin-left: 1em; }
+
+h2 {
+  margin: 2em 0 0.7em; }
+
+p {
+  font-size: 1.2em; }
+
+/*# sourceMappingURL=app.css.map */
