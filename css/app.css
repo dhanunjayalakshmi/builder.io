@@ -8,7 +8,7 @@ body {
   border-radius: 2px;
   text-transform: uppercase;
   font-weight: bold;
-  padding: 1em; }
+  padding: 1em 3em; }
   .btn-solid:hover {
     color: #FFF; }
 
@@ -17,8 +17,8 @@ body {
   border-radius: 2px;
   text-transform: uppercase;
   font-weight: bold;
-  padding: 1em;
-  border: 1px solid #A18BCC; }
+  padding: 1em 3em;
+  border: 2px solid #A18BCC; }
   .btn-outline:hover {
     color: #A18BCC; }
 
@@ -42,8 +42,7 @@ body {
     font-size: 1.3em;
     margin: 1em 0; }
   #landing a.action {
-    background-color: #4BD9DD;
-    width: 10em; }
+    background-color: #4BD9DD; }
   #landing .image-container {
     position: relative; }
     #landing .image-container img {
@@ -77,11 +76,9 @@ body {
   padding: 2em 0; }
 
 .get-started {
-  background-color: #A18BCC;
-  padding: 1em 3em; }
+  background-color: #A18BCC; }
 
 .try-demo {
-  padding: 1em 3em;
   margin-left: 1em; }
 
 h2 {
@@ -98,5 +95,21 @@ p {
   padding: 5em 0 14em; }
   #features p {
     font-size: 0.9em; }
+
+#take-look {
+  text-align: center;
+  background-color: #A18BCC;
+  padding: 3em 0;
+  color: #FFF; }
+  #take-look h2 {
+    text-transform: uppercase; }
+  #take-look p {
+    margin-bottom: 2em; }
+  #take-look .take-my-money {
+    background-color: #4BD9DD; }
+  #take-look .free-account {
+    color: #FFF;
+    border-color: #FFF;
+    margin-left: 1em; }
 
 /*# sourceMappingURL=app.css.map */
