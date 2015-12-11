@@ -96,5 +96,7 @@ p {
   background-repeat: no-repeat;
   background-position: bottom center;
   padding: 5em 0 14em; }
+  #features p {
+    font-size: 0.9em; }
 
 /*# sourceMappingURL=app.css.map */
