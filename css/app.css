@@ -3,6 +3,7 @@ body {
   color: #C0C4C7; }
 
 .btn-solid {
+  background-color: #A18BCC;
   color: #FFF;
   border-radius: 2px;
   text-transform: uppercase;
@@ -88,5 +89,12 @@ h2 {
 
 p {
   font-size: 1.2em; }
+
+#features {
+  background-color: #F7F7F5;
+  background-image: url("../images/phone-background.jpg");
+  background-repeat: no-repeat;
+  background-position: bottom center;
+  padding: 5em 0 14em; }
 
 /*# sourceMappingURL=app.css.map */
