@@ -140,7 +140,7 @@ p {
   #pricing h2 {
     text-transform: uppercase;
     color: #A18BCC; }
-  #pricing p.caption {
+  #pricing caption {
     color: #A18BCC;
     margin-bottom: 2em;
     font-weight: bold; }
