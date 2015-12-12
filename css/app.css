@@ -124,4 +124,15 @@ p {
     transform: translate(-50%, -50%);
     font-size: 8vw; }
 
+#customization {
+  text-align: center;
+  padding: 5em 0;
+  background-color: #F7F7F5; }
+  #customization i {
+    font-size: 4em;
+    color: #A18BCC; }
+  #customization a {
+    color: #A18BCC;
+    font-weight: bold; }
+
 /*# sourceMappingURL=app.css.map */
