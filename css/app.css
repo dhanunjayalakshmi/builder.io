@@ -18,9 +18,9 @@ body {
   text-transform: uppercase;
   font-weight: bold;
   padding: 1em 3em;
-  border: 2px solid #A18BCC; }
+  border: 2px solid #C0C4C7; }
   .btn-outline:hover {
-    color: #A18BCC; }
+    color: #C0C4C7; }
 
 #landing {
   background-color: #A18BCC;
@@ -42,7 +42,8 @@ body {
     font-size: 1.3em;
     margin: 1em 0; }
   #landing a.action {
-    background-color: #4BD9DD; }
+    background-color: #4BD9DD;
+    width: 12em; }
   #landing .image-container {
     position: relative; }
     #landing .image-container img {
@@ -93,8 +94,6 @@ p {
   background-repeat: no-repeat;
   background-position: bottom center;
   padding: 5em 0 14em; }
-  #features p {
-    font-size: 0.9em; }
 
 #take-look {
   text-align: center;
